@@ -8,7 +8,7 @@ horizontal en una fila que será seleccionada de manera aleatoria. Una vez
 concluida la ubicación de las palabras, rellene los espacios no utilizados con 
 un número aleatorio del 0 al 9. Finalmente imprima por pantalla la sopa de 
 letras creada.
-Nota: Para resolver el ejercicio deberá investigar cómo se utilizan las 
+Nota: Para resolver el ejercicio deberá investigar cómo se utilizadn las 
 siguientes funciones de Java substring(), Length() y Math.random().*/
 /**
  *
@@ -19,6 +19,7 @@ public class Extra6 {
     /**
      * @param args the command line arguments
      */
+    //Hola a mi me deja modificar
     public static void main(String[] args) {
         Scanner leer = new Scanner(System.in);
         char sopa[][] = new char[20][20];
