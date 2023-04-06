@@ -27,7 +27,8 @@ public class Extra6 {
         String frase = "hola";
         int fila;
         int columna;
-
+String hola="hola aqui Gaby desde la web git";
+        System.out.println(hola);
         for (int i = 0; i < 5; i++) {
 
             do {
